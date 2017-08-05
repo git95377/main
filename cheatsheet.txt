@@ -1,0 +1,16 @@
+
+
+git commands
+============
+
+git init
+
+git status
+
+git add
+
+git commit -m "your messages"
+
+git remote add origin https://github.com/git95377/main.git
+
+git push -u origin master 
